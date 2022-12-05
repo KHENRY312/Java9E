@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2022. This code shall not be used, manipulated, decompiled or reproduced for other uses than educational;
+ * and not to be used in lieu of performing your own assignments.
+ */
+
 package ydi01_03_hello2;
 
 /*
@@ -11,9 +16,9 @@ Created On: Saturday, 03-Dec-2022
 	{
 	public static void main(String[] args)
 		{
-		  System.out.println("Hello, world!");
+		  System.out.println("ydi01_01_hello.Hello, world!");
         
         /* This class demonstrates the use of the println()
-          method to print the message Hello, world! */
+          method to print the message ydi01_01_hello.Hello, world! */
 		}
 	}

@@ -19,8 +19,8 @@ Created On: Saturday, 03-Dec-2022
 	{
 	public static void main(String[] args)
 		{
-          JOptionPane.showMessageDialog(null, "Hello, world!",
-             "Hello Dialog",JOptionPane.INFORMATION_MESSAGE);
+			JOptionPane.showMessageDialog(null, "ydi01_01_hello.Hello, world!",
+				"ydi01_01_hello.Hello Dialog", JOptionPane.INFORMATION_MESSAGE);
 		}
 	}
 
