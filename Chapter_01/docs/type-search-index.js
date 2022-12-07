@@ -1,0 +1,6 @@
+/*
+ * Copyright (c) 2022. This code shall not be used, manipulated, decompiled or reproduced for other uses than educational;
+ * and not to be used in lieu of performing your own assignments.
+ */
+
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ch01_pe12_burma_shave","l":"BurmaShave"},{"p":"ch01_pe10_comments","l":"Comments"},{"p":"ch01_pe11_comments_dialog","l":"CommentsDialog"},{"p":"ch01_db01_fix_debug_one1","l":"FixDebugOne1"},{"p":"ch01_db02_fix_debug_one2","l":"FixDebugOne2"},{"p":"ch01_db03_fix_debug_one3","l":"FixDebugOne3"},{"p":"ch01_db04_fix_debug_one4","l":"FixDebugOne4"},{"p":"ydi01_01_hello","l":"Hello"},{"p":"ydi01_03_hello2","l":"Hello2"},{"p":"ydi01_04_hello_dialog","l":"HelloDialog"},{"p":"ydi01_02_hello_errors","l":"HelloErrors"},{"p":"ch01_pe07_movie_quote_info","l":"MovieQuoteInfo"},{"p":"ch01_gz01_random_guess","l":"RandomGuess"},{"p":"ch01_pe06_song_lyrics","l":"SongLyrics"},{"p":"ch01_pe08_table_and_chairs","l":"TableAndChairs"},{"p":"ch01_pe09_triangle","l":"Triangle"}];updateSearchResults();

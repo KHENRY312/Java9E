@@ -1,0 +1,6 @@
+/*
+ * Copyright (c) 2022. This code shall not be used, manipulated, decompiled or reproduced for other uses than educational;
+ * and not to be used in lieu of performing your own assignments.
+ */
+
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"Chapter01","l":"ch01_db01_fix_debug_one1"},{"m":"Chapter01","l":"ch01_db02_fix_debug_one2"},{"m":"Chapter01","l":"ch01_db03_fix_debug_one3"},{"m":"Chapter01","l":"ch01_db04_fix_debug_one4"},{"m":"Chapter01","l":"ch01_gz01_random_guess"},{"m":"Chapter01","l":"ch01_pe06_song_lyrics"},{"m":"Chapter01","l":"ch01_pe07_movie_quote_info"},{"m":"Chapter01","l":"ch01_pe08_table_and_chairs"},{"m":"Chapter01","l":"ch01_pe09_triangle"},{"m":"Chapter01","l":"ch01_pe10_comments"},{"m":"Chapter01","l":"ch01_pe11_comments_dialog"},{"m":"Chapter01","l":"ch01_pe12_burma_shave"},{"m":"Chapter01","l":"ydi01_01_hello"},{"m":"Chapter01","l":"ydi01_02_hello_errors"},{"m":"Chapter01","l":"ydi01_03_hello2"},{"m":"Chapter01","l":"ydi01_04_hello_dialog"}];updateSearchResults();
