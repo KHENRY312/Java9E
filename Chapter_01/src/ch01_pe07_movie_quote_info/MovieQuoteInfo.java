@@ -7,6 +7,9 @@ package ch01_pe07_movie_quote_info;
 
 import javax.swing.*;
 
+/**
+ * The type Movie quote info.
+ */
 /*
 Project:       Java9E
 Module:      Chapter_01
@@ -16,7 +19,12 @@ Created By: Kimberly Henry
 Created On: Saturday, 03-Dec-2022
 */public class MovieQuoteInfo
 	{
-	public static void main(String[] args)
+		/**
+		 * The entry point of application.
+		 *
+		 * @param args the input arguments
+		 */
+		public static void main(String[] args)
 		{
 				JOptionPane.showMessageDialog(null, """
 						Gone with the Wind\s
