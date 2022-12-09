@@ -14,9 +14,18 @@ Created By:   Kimberly Henry
 Created On:  Monday, 05-Dec-2022
 */
 import javax.swing.JOptionPane;
+
+/**
+ * The type Fix debug one 4.
+ */
 public class FixDebugOne4
     {
-        public static void main(String[] args)
+	    /**
+	     * The entry point of application.
+	     *
+	     * @param args the input arguments
+	     */
+	    public static void main(String[] args)
         {
             JOptionPane.showMessageDialog(null, "First GUI program");
         }
