@@ -5,6 +5,9 @@
 
 package ch01_db03_fix_debug_one3;
 
+/**
+ * The type Fix debug one 3.
+ */
 /*
 Project:           Java9E
 Module:         Chapter_01
@@ -15,6 +18,11 @@ Created On:  Monday, 05-Dec-2022
 */
 public class FixDebugOne3
 	{
+		/**
+		 * The entry point of application.
+		 *
+		 * @param args the input arguments
+		 */
 		public static void main(String[] args)
 			{
 				System.out.println("Over the river");
