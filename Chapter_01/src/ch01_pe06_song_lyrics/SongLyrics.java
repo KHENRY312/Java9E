@@ -5,6 +5,9 @@
 
 package ch01_pe06_song_lyrics;
 
+/**
+ * The type Song lyrics.
+ */
 /*
 Project:       Java9E
 Module:      Chapter_01
@@ -14,7 +17,12 @@ Created By: Kimberly Henry
 Created On: Saturday, 03-Dec-2022
 */public class SongLyrics
 	{
-	public static void main(String[] args)
+		/**
+		 * The entry point of application.
+		 *
+		 * @param args the input arguments
+		 */
+		public static void main(String[] args)
 		{
 			System.out.println("Each day through my window I watch as she passes by.");
 			System.out.println("I say to myself your such a lucky guy");
