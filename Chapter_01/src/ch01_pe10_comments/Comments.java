@@ -5,6 +5,9 @@
 
 package ch01_pe10_comments;
 
+/**
+ * The type Comments.
+ */
 /*
 Project:       Java9E
 Module:      Chapter_01
@@ -14,6 +17,11 @@ Created By: Kimberly Henry
 Created On: Sunday, 04-Dec-2022
 */public class Comments
 	{
+		/**
+		 * The entry point of application.
+		 *
+		 * @param args the input arguments
+		 */
 		public static void main(String[] args)
 			{
 				System.out.println("Program comments are non-executing statements " +
