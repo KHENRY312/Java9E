@@ -5,6 +5,9 @@
 
 package ch01_db01_fix_debug_one1;
 
+/**
+ * The type Fix debug one 1.
+ */
 /*
 Project:           Java9E
 Module:         Chapter_01
@@ -16,8 +19,12 @@ Created On:  Monday, 05-Dec-2022
 public class FixDebugOne1
 	{
    /* This program displays a greeting*/
-
-   public static void main(String[] args)
+		/**
+		 * The entry point of application.
+		 *
+		 * @param args the input arguments
+		 */
+		public static void main(String[] args)
    {
       System.out.println("Hello");
    }
