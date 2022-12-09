@@ -7,6 +7,9 @@ package ch01_gz01_random_guess;
 
 import javax.swing.*;
 
+/**
+ * The type Random guess.
+ */
 /*
 Project:           Java9E
 Module:         Chapter_01
@@ -17,6 +20,11 @@ Created On:  Monday, 05-Dec-2022
 */
 public class RandomGuess
 	{
+		/**
+		 * The entry point of application.
+		 *
+		 * @param args the input arguments
+		 */
 		public static void main(String[] args)
 			{
 				JOptionPane.showMessageDialog(null, "Think of a number between 1 - 10",
