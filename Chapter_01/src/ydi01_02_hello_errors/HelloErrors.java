@@ -5,6 +5,9 @@
 
 package ydi01_02_hello_errors;
 
+/**
+ * The type Hello errors.
+ */
 /*
 Project:         Java9E
 Module:       Chapter_01
@@ -14,6 +17,11 @@ Created By: Kimberly Henry
 Created On: Saturday, 03-Dec-2022
 */public final class HelloErrors
 	{
+		/**
+		 * The entry point of application.
+		 *
+		 * @param args the input arguments
+		 */
 		public static void main(String[] args)
 			{
 				System.out.println("ydi01_01_hello.Hello");
