@@ -7,6 +7,9 @@ package ch01_pe08_table_and_chairs;
 
 import javax.swing.*;
 
+/**
+ * The type Table and chairs.
+ */
 /*
 Project:       Java9E
 Module:      Chapter_01
@@ -16,7 +19,12 @@ Created By: Kimberly Henry
 Created On: Sunday, 04-Dec-2022
 */public class TableAndChairs
 	{
-	public static void main(String[] args)
+		/**
+		 * The entry point of application.
+		 *
+		 * @param args the input arguments
+		 */
+		public static void main(String[] args)
        {
            JOptionPane.showMessageDialog(null,
               """
